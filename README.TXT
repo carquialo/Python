@@ -1,3 +1,3 @@
-### PYTHON 
+PYTHON 
 
-Esto es un proyecto de pasos propios en python.
+Esto es un proyecto sobre mis pasos en python.
