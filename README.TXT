@@ -1,1 +1,1 @@
-🐍 Aprendiendo PYTHON.
+🐍 PYTHON.
